@@ -3,15 +3,15 @@
 <h2>🔐 Cybersecurity & IT Projects:</h2>
 
 - <b>PyLFSBuilder</b>
-  - [Automated Linux From Scratch builder written in Python](https://github.com/3sfour/linux-from-scratch)
+  - [Automated Linux From Scratch builder written in Python](https://github.com/3sfour/linux-from-scratch) — not started
 - <b>PowerShell</b>
-  - [PROJECT NAME (short description)](https://github.com/3sfour/REPO-NAME)
+  - [PROJECT NAME (short description)](https://github.com/3sfour/REPO-NAME) — not started
 - <b>Help Desk / Ticketing</b>
-  - [PROJECT NAME (short description)](https://github.com/3sfour/REPO-NAME)
+  - [PROJECT NAME (short description)](https://github.com/3sfour/REPO-NAME) — not started
 - <b>Networking</b>
-  - [PROJECT NAME (short description)](https://github.com/3sfour/REPO-NAME)
+  - [PROJECT NAME (short description)](https://github.com/3sfour/REPO-NAME) — not started
 - <b>Active Directory</b>
-  - [PROJECT NAME (short description)](https://github.com/3sfour/REPO-NAME)
+  - [Active Directory Home Lab With Bulk User Creation](https://github.com/3sfour/AD_POWERSHELL_W19)
 
 <h2>🎓 Certifications</h2>
 
