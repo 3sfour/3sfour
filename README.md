@@ -1,44 +1,38 @@
-<h1>Hi, I'm Ali! <br/><a href="https://github.com/3sfour">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/ali-al-asfour-7a970b34a/">IT Support & Networking</a></h1>
+<h1>Hi, I'm Ali Al-Asfour 👋</h1>
 
-<h2>🔐 Cybersecurity & IT Projects:</h2>
+**Cybersecurity student · Security+ | A+ | Network+ | AWS Cloud Practitioner · Help Desk & IT Support**
+📍 Carbondale, Illinois
 
-- <b>PyLFSBuilder</b>
-  - [Automated Linux From Scratch builder written in Python](https://github.com/3sfour/linux-from-scratch) — not started
-- <b>PowerShell</b>
-  - [PROJECT NAME (short description)](https://github.com/3sfour/REPO-NAME) — not started
-- <b>Help Desk / Ticketing</b>
-  - [PROJECT NAME (short description)](https://github.com/3sfour/REPO-NAME) — not started
-- <b>Networking</b>
-  - [PROJECT NAME (short description)](https://github.com/3sfour/REPO-NAME) — not started
-- <b>Active Directory</b>
-  - [Active Directory Home Lab With Bulk User Creation](https://github.com/3sfour/AD_POWERSHELL_W19)
+I'm a dual major in Information Technology and Cybersecurity at Southern Illinois University Carbondale. I'm building a strong foundation in IT support, networking and information security. Right now I'm focused on networking and studying for the **Cisco CCNA**. I have hands-on experience with Linux, Windows and cybersecurity tools from my coursework and home labs. Next I want to go deeper into **GRC** and **vulnerability management**.
+
+<h2>🔐 Projects</h2>
+
+| Area | Project |
+|---|---|
+| Active Directory | [Active Directory Home Lab with Bulk User Creation (PowerShell)](https://github.com/3sfour/AD_POWERSHELL_W19) |
+| Help Desk / Ticketing | [Ticketing Lab](https://github.com/3sfour/TICKETING_LAB) |
+| Web | [Al-Asfour Consulting website (client site)](https://github.com/3sfour/AsfourConsultingRepo) |
 
 <h2>🎓 Certifications</h2>
 
 - CompTIA Security+
+- CompTIA Network+
 - CompTIA A+
 - AWS Certified Cloud Practitioner
-- CCNA (in progress)
+- Cisco CCNA (in progress)
 
-<h2>🤳 Connect with me:</h2>
+<h2>📚 Education</h2>
 
-[<img align="left" alt="Ali Al-Asfour | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ali Al-Asfour | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+- **Southern Illinois University Carbondale**: Bachelor's, Information Technology and Cybersecurity (dual major), Aug 2024 to Jan 2027 (expected)
 
-[linkedin]: https://www.linkedin.com/in/ali-al-asfour-7a970b34a/
-[github]: https://github.com/3sfour
+<h2>🛠 Skills</h2>
 
-<!--
-**3sfour/3sfour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network segmentation · DHCP · Technical support · Active Directory · PowerShell · Linux · Windows Server · AWS
 
-Here are some ideas to get you started:
+<h2>🌐 Languages</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me ...
-- 😄 Pronouns ...
-- ⚡ Fun fact ...
--->
+English (native) · Arabic (professional working)
+
+<h2>🤳 Connect</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--asfourr-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-asfourr)
